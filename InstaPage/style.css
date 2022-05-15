@@ -1,0 +1,90 @@
+body{
+    background: #E5E8E8;
+    
+}
+
+.container{
+    display: flex;
+    width: 800px;
+    margin: 50px auto;
+
+}
+
+.celular{
+    height: 650px;
+    width: auto;
+}
+
+.instaLogo{
+    width: 200px;
+    height: 100px;
+
+}
+
+.group1{
+    background: white;
+    border-radius: 10px;
+    height: 400px;
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 1rem;
+    padding: 30px auto;
+    border: 1px solid #BFC9CA;
+}
+
+.photo{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.insta_login{
+
+    background-color: #2471A3;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.insta_login2{
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.group{
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 1rem;
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid #BFC9CA;
+
+}
+
+.getTheApp{
+
+    border-radius: 10px;
+    height: auto;
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 1rem;
+    padding: 30px auto;
+    margin-top: 15px;
+}
